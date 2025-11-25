@@ -24,7 +24,7 @@ The project contains 2000+ records, realistic fields, and 50+ business-oriented 
 │
 ├── 📄 README.md
 ├── 📄 requirement_sheet.pdf
-├── 📄 ER_Diagram.png (optional)
+├── 📄 ER_Diagram.png
 ├── 📁 dataset
 │     ├── customers.csv
 │     ├── loans.csv
