@@ -15,7 +15,7 @@ You will analyze:
 * Loan default patterns
 * Risk assessment insights
 
-The project contains 2000+ records, realistic fields, and 50+ business-oriented SQL requirements.
+The project contains 2000+ records, and 40+ business-oriented SQL requirements.
 
 ## 📂 Project Structure
 
@@ -36,8 +36,7 @@ The project contains 2000+ records, realistic fields, and 50+ business-oriented 
 │     ├── 02_loan_portfolio.sql
 │     ├── 03_payment_analysis.sql
 │     ├── 04_default_analysis.sql
-│     ├── 05_risk_insights.sql
-│
+│     
 └── 📄 final_report.pdf (optional)
 ```
 
